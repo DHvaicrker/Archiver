@@ -1,6 +1,6 @@
 # 🗜️ Archiver - A Powerful and Feature-Rich Archiving Tool
 
-[![Example Image of your GUI (if you have one)](placeholder_image.png)](placeholder_image.png)  *(Replace with your image)*
+[![Archiver GUI](https://github.com/DHvaicrker/Compressor/blob/main/Compressor.jpg)](https://github.com/DHvaicrker/Compressor/blob/main/Compressor.jpg)
 
 Archiver is a Python-based archiving utility that goes beyond basic compression.  It offers a comprehensive set of features, including a graphical user interface, robust compression using Huffman's algorithm, support for multiple files and folders, secure encryption, and the ability to update or delete archive contents.
 
