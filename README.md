@@ -6,11 +6,11 @@ Archiver is a Python-based archiving utility that goes beyond basic compression.
 
 ## ✨ Key Features
 
-* **Graphical User Interface (GUI):**  A user-friendly interface allows for easy access to all functionalities, making archiving and extraction a breeze.  No more command-line hassle! 💻
-* **Huffman Compression:**  Efficiently shrinks files and directories of *any* type (not just text) using a custom implementation of Huffman's algorithm.  Maximize your storage space! 🚀
-* **Multi-File/Folder Support:**  Compress multiple files and folders together while preserving the original directory structure.  Organize your archives with ease. 📂
-* **Archive Modification:**  Delete or update individual files and folders within an existing archive without needing to re-create the entire archive.  Maintain control over your data. 🛠️
-* **Symmetric Encryption:** Secure your archives with strong symmetric encryption using the `cryptography` library.  Password protection ensures your data remains private. 🔒
+* **Graphical User Interface (GUI):**  A user-friendly interface allows for easy access to all functionalities, making archiving and extraction a breeze. 💻
+* **Huffman Compression:**  Efficiently shrinks files and directories of *any* type (not just text) using a custom implementation of Huffman's algorithm.  🚀
+* **Multi-File/Folder Support:**  Compress multiple files and folders together while preserving the original directory structure.  📂
+* **Archive Modification:**  Delete or update individual files and folders within an existing archive without needing to re-create the entire archive. 🛠️
+* **Symmetric Encryption:** Secure your archives with strong symmetric encryption using the `cryptography` library. 🔒
 * **Custom Serialization:**  A unique and efficient format for serializing and deserializing the Huffman tree, enabling seamless compression and decompression. 🌳
 
 ## ⚙️ Technical Details
@@ -35,7 +35,6 @@ Archiver is a Python-based archiving utility that goes beyond basic compression.
     * Main GUI class manages all screens.
     * Separate classes for each screen (compress, delete, add, etc.).
     * Controller class links GUI and backend logic.
-    * Multi-threading used to prevent GUI blocking and ensure smooth operation. 🧵
 
 ## 🚀 How to Run
 
@@ -44,4 +43,4 @@ Archiver is a Python-based archiving utility that goes beyond basic compression.
 ```bash
 # Example (replace with your actual instructions)
 pip install cryptography  # Install necessary dependencies
-python archiver.py      # Run the main script
+python main.py      # Run the main script
