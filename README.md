@@ -1,4 +1,4 @@
-# 🗜️ Archiver - A Powerful and Feature-Rich Archiving Tool
+# 🗜️ Archiver - A Powerful Archiving Tool
 
 [![Archiver GUI](https://github.com/DHvaicrker/Compressor/blob/main/Compressor.jpg)](https://github.com/DHvaicrker/Compressor/blob/main/Compressor.jpg)
 
