@@ -35,12 +35,3 @@ Archiver is a Python-based archiving utility that goes beyond basic compression.
     * Main GUI class manages all screens.
     * Separate classes for each screen (compress, delete, add, etc.).
     * Controller class links GUI and backend logic.
-
-## 🚀 How to Run
-
-*(Provide clear and concise instructions on how to run your project.  Include any dependencies and how to install them.)*
-
-```bash
-# Example (replace with your actual instructions)
-pip install cryptography  # Install necessary dependencies
-python main.py      # Run the main script
